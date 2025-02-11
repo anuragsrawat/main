@@ -1,0 +1,6 @@
+[submodule "css"]
+	path = css
+	url = https://github.com/anuragsrawat/css.git
+[submodule "js"]
+	path = js
+	url = https://github.com/anuragsrawat/js.git
